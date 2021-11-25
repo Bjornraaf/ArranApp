@@ -4,7 +4,7 @@ Duur:
  - 3 Weken
 
 ## Ontwerp
-Een app om mijn kleine broertje met een beperking te helpen ontwikkelen.
+Een app om mijn kleine broertje met een beperking te helpen ontwikkelen. Spawned vuurwerk en buttons vertellen het woord onclick.
 
 ## Software + Hardware
 Engine:
